@@ -26,7 +26,7 @@
   `non-QWERTY` keyboard layouts.
 - Before making the post for suggestions, the only layout i thought i might be
   switching in-case of, if i decided to make an switch over to an `non-QWERTY` keyboard is
-  the <code><a href="https://colemakmods.github.io/mod-dh/">Colemak-DH</a></code> (because
+  the <a href="https://colemakmods.github.io/mod-dh/">Colemak-DH</a> (because
   <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer's</a> and
   <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind
   to believe it's the best - :lol:).
