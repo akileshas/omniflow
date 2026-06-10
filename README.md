@@ -5,7 +5,7 @@ It's the keyboard-layout, i am personally daily-driving in my systems.
 It's purely inspired from the <code><a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a></code> keyboard layout.  
 Mine, are just small alterations from it, according to my needs and comforts.
 
-<a href="./docs/motivation.md">Here</a>, is my motivation for the switch.
+[Here](./docs/motivation.md), is my motivation for the switch.
 
 Here are some references i used, to make my decision:
   - https://github.com/DreymaR/Gralmak/
