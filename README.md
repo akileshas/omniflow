@@ -1,12 +1,10 @@
-## OmniFlow
+# OmniFlow
 
-It's the keyboard-layout, i am personally daily-driving in my systems.
-
-It's purely inspired from the <a href="https://github.com/DreymaR/Gralmak#gralmak">gralmak</a> keyboard layout.
-
+It's the keyboard-layout, i am personally daily-driving in my systems.  
+It's purely inspired from the <a href="https://github.com/DreymaR/Gralmak#gralmak">gralmak</a> keyboard layout.  
 Mine, are just small alterations from it, according to my needs and comforts.
 
-### Motivation for this switch.
+## Motivation for this switch.
 
 - I uses keyboard for almost every-task in my system starting from typing, navigations,
   switching workspaces, focusing windows, hotkeys, launch applications, etc.
