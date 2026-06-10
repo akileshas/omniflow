@@ -11,26 +11,28 @@
   and during this period, in the initial days i didn't taught a lot about switching
   keyboard layouts even i didn't care about it, i was just doing my works. But,
   I started to feel pain in my hands and wrist, eventually it gets worst.
-- Then started the research for finding the root-cause of it, and came are
-  split-keyboards and alternate keyboard layouts and how bad the QWERTY layouts
+- Then started the research for finding the root-cause of it, and came across
+  split-keyboards and alternate `non-QWERTY` keyboard layouts and how bad the `QWERTY` layouts
   has been made. So, i made an post on <a href="https://www.reddit.com/r/linkarzu/s/FLajfYf1J9">Reddit</a>
-  for suggestion, really got a lot of good suggestions and resources for sorting
-  the issue. Now, i have two options:
+  for suggestion, really got a lot of good suggestions and resources for solving
+  the issue. Now, i have two options:  
     a. Buy an Split Keyboard.
-    b. Switch non-QWERTY layout.
-- Here, I afford an split keyboard and planning to make my own (which can take months).
-  So, option (b) is the only choice for me. I knew the keyboard is the main
-  problem in my case (~60%), and layout can really give minor advantage (~40%).
-  But, its my only option so decided to switch to some non-QWERTY keyboard layouts.
-- Before, making the post for suggestions the only layout i thought i might be
-  switching incase i decided to make an switch over to an non-QWERTY keyboard is
-  the Colemak-DH (because
-  <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformers</a> and
-  <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brainwashed my mind
-  to believe it's the best - lol).
+    b. Switch to an `non-QWERTY` layout.
+- Here in my case, i cannot afford an split keyboard and planning to build my
+  own (which can take months). So, the option (b) is the only choice for me.
+  I knew the `row-staggered` keyboard is the main problem in my case (~60%), and
+  alternative `non-QWERTY` keyboard layout can really give only minor advantage (~40%).
+  But, its my only option so i decided to stick with it and switch to some
+  `non-QWERTY` keyboard layouts.
+- Before making the post for suggestions, the only layout i thought i might be
+  switching in-case of, if i decided to make an switch over to an `non-QWERTY` keyboard is
+  the <code><a href="https://colemakmods.github.io/mod-dh/">Colemak-DH</a></code> (because
+  <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer's</a> and
+  <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind
+  to believe it's the best - :lol:).
 - With some good suggestions like:
-  a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,
-  b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.
+    a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,
+    b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.
   got into experimenting with layouts like `Dvorak`, `Colemak`, `Colemak-DH`,
   `Placebo`, `Gralmak`, `GralmakS`, `Graphite`, `Calemog`, `Gallium V1`, `Gallium V2`, etc.
 - Felt, comfortable and ease-of-use on the `Gralmak` keyboard layout, I
