@@ -13,3 +13,7 @@ Here are some references i used, to make my decision:
   - https://dreymar.colemak.org/
   - https://getreuer.info/posts/keyboards/alt-layouts/
   - https://getreuer.info/posts/keyboards/symbol-layer/index.html
+
+## Preview
+
+<img src="./assets/png/omniflow.png" />
