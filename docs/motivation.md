@@ -16,8 +16,8 @@
   has been made. So, i made an post on <a href="https://www.reddit.com/r/linkarzu/s/FLajfYf1J9">Reddit</a>
   for suggestion, really got a lot of good suggestions and resources for solving
   the issue. Now, i have two options:  
-        a. Buy an Split Keyboard.  
-        b. Switch to an `non-QWERTY` layout.
+    a. Buy an Split Keyboard.  
+    b. Switch to an `non-QWERTY` layout.
 - Here in my case, i cannot afford an split keyboard and planning to build my
   own (which can take months). So, the option (b) is the only choice for me.
   I knew the `row-staggered` keyboard is the main problem in my case (~60%), and
@@ -31,8 +31,8 @@
   <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind
   to believe it's the best - :lol:).
 - With some good suggestions like:  
-        a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,  
-        b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.
+    a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,  
+    b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.  
   got into experimenting with different `non-QWERTY` keyboard layouts like `Dvorak`,
   `Colemak`, `Colemak-DH`, `Placebo`, `Gralmak`, `GralmakS`, `Graphite`, `Calemog`,
   `Gallium V1`, `Gallium V2`, etc. Personally i felt, comfortable and ease-of-type
