@@ -35,11 +35,10 @@
         b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.
   got into experimenting with different `non-QWERTY` keyboard layouts like `Dvorak`,
   `Colemak`, `Colemak-DH`, `Placebo`, `Gralmak`, `GralmakS`, `Graphite`, `Calemog`,
-  `Gallium V1`, `Gallium V2`, etc.
-- Felt, comfortable and ease-of-use on the `Gralmak` keyboard layout, I
-  practiced using `Gralmak` for an while and my fingers really felt so smooth
-  while typing and no more pain or fatigue. It felt like an gift from god for my
-  hands at the time of practice.
-- Everything felt smooth and correct and indeed the right way to do things. I
-  cannot really tell how i felt at that time (the feeling is similar to the one i
-  experienced when i learned vim motions).
+  `Gallium V1`, `Gallium V2`, etc. Personally i felt, comfortable and ease-of-type
+  on the `Gralmak` keyboard layout, I practiced using `Gralmak` for an while and my
+  fingers really felt so smooth (pinky-promise) while typing and no more pain or fatigue.
+  It felt like an gift from god for my hands at the time of practicing. Everything felt
+  smooth and correct and indeed made me believe it's the right way to do it. I
+  cannot really tell how i felt at that time (the feeling is similar to, when i
+  initially started using vim motions to navigate).
