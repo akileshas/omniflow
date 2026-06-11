@@ -16,5 +16,5 @@ Here are some references i used, to make my decision:
 
 ## Preview
 
-#### (1) - 60% ANSI Row-Staggered Keyboard
+#### Keyboard-Layout for '60% Row-Staggered ANSI' Keyboard
 <img src="./assets/png/omniflow.png" />
