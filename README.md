@@ -24,7 +24,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 ## Preview
 
 #### Keyboard-Layout for `60% Row-Staggered ANSI` Keyboard
-<img width="800px" src="./assets/png/60PctRowStaggeredANSI/layout.png" />  
+<img width="800px" src="./assets/png/60PctRowStaggeredANSI/layout.png" />
 <details>
   <summary>Base Layout</summary>
   <img width="800px" src="./assets/png/60PctRowStaggeredANSI/base-layout.png" />
