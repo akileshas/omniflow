@@ -7,14 +7,14 @@ Mine, are just small alterations from it, according to my needs and comforts.
 
 [Here](./docs/motivation.md), is my motivation for the switch.
 
-Here are some references i used, to make my decision:
+**Here are some references i used, to make my decision**:
   - https://github.com/DreymaR/Gralmak/
   - https://altalpha.timvink.nl/
   - https://dreymar.colemak.org/
   - https://getreuer.info/posts/keyboards/alt-layouts/
   - https://getreuer.info/posts/keyboards/symbol-layer/index.html
 
-What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?
+**What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?**
   - The bottom-row keys placements. Swapped out the positions of the  
     keys like `Z`, `X`, `M`, `C`, and `V` in a way which is convenient to  
     my hands.
