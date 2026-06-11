@@ -8,7 +8,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 [Here](./docs/motivation.md), is my motivation for the switch.
 
 <blockquote>
-**Here are some references i used, to make my decision**:
+<b>Here are some references i used, to make my decision</b>:
   - https://github.com/DreymaR/Gralmak/
   - https://altalpha.timvink.nl/
   - https://dreymar.colemak.org/
