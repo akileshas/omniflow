@@ -9,7 +9,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 
 <blockquote>
 <b>Here are some references i used, to make my decision</b>:
-<ul>
+<ul style="list-style-type: '-'">
   <li><a href="https://github.com/DreymaR/Gralmak/">https://github.com/DreymaR/Gralmak/</a></li>
   <li><a href="https://altalpha.timvink.nl/">https://altalpha.timvink.nl/</a></li>
   <li><a href="https://dreymar.colemak.org/">https://dreymar.colemak.org/</a></li>
