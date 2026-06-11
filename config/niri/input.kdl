@@ -1,0 +1,10 @@
+input {
+  keyboard {
+    xkb {
+      // swaps 'menu' key with 'compose' key
+      // import in the 'niri-wm' config
+      // include "input.kdl"
+      options "compose:menu"
+    }
+  }
+}
