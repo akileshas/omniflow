@@ -27,7 +27,13 @@ Mine, are just small alterations from it, according to my needs and comforts.
 <img width="800px" src="./assets/png/60PctRowStaggeredANSI/layout.png" />
 <blockquote>
   <details>
-    <summary>Base Layout</summary>
-    <img width="800px" src="./assets/png/60PctRowStaggeredANSI/base-layout.png" />
+    <summary>BASE-Layer Layout</summary>
+    <img width="800px" src="./assets/png/60PctRowStaggeredANSI/base-layer_layout.png" />
+  </details>
+</blockquote>
+<blockquote>
+  <details>
+    <summary>SHIFT-Layer Layout</summary>
+    <img width="800px" src="./assets/png/60PctRowStaggeredANSI/shift-layer_layout.png" />
   </details>
 </blockquote>
