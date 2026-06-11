@@ -46,4 +46,8 @@ Mine, are just small alterations from it, according to my needs and comforts.
     <summary><code>FN1</code>+<code>SHIFT</code> Layer Layout</summary>
     <img width="800px" src="./assets/png/60PctRowStaggeredANSI/fn1-shift-layer_layout.png" />
   </details>
+  <details>
+    <summary><code>FN2</code> Layer Layout</summary>
+    <img width="800px" src="./assets/png/60PctRowStaggeredANSI/fn2-layer_layout.png" />
+  </details>
 </blockquote>
