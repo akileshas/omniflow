@@ -9,7 +9,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 
 <blockquote>
 <b>Here are some references i used, to make my decision</b>:
-<ul style="list-style-type: '-'">
+<ul>
   <li><a href="https://github.com/DreymaR/Gralmak/">https://github.com/DreymaR/Gralmak/</a></li>
   <li><a href="https://altalpha.timvink.nl/">https://altalpha.timvink.nl/</a></li>
   <li><a href="https://dreymar.colemak.org/">https://dreymar.colemak.org/</a></li>
@@ -18,7 +18,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 </ul>
 </blockquote>
 
-**What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?**
+<b>What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?</b>
   - The bottom-row keys placements. Swapped out the positions of the  
     keys like `Z`, `X`, `M`, `C`, and `V` in a way which is convenient to  
     my hands.
@@ -37,5 +37,9 @@ Mine, are just small alterations from it, according to my needs and comforts.
   <details>
     <summary><code>SHIFT</code> Layer Layout</summary>
     <img width="800px" src="./assets/png/60PctRowStaggeredANSI/shift-layer_layout.png" />
+  </details>
+  <details>
+    <summary><code>FN1</code> Layer Layout</summary>
+    <img width="800px" src="./assets/png/60PctRowStaggeredANSI/fn1-layer_layout.png" />
   </details>
 </blockquote>
