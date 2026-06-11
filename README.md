@@ -27,11 +27,11 @@ Mine, are just small alterations from it, according to my needs and comforts.
 <img width="800px" src="./assets/png/60PctRowStaggeredANSI/layout.png" />
 <blockquote>
   <details>
-    <summary>BASE-Layer Layout</summary>
+    <summary><code>BASE</code> Layer Layout</summary>
     <img width="800px" src="./assets/png/60PctRowStaggeredANSI/base-layer_layout.png" />
   </details>
   <details>
-    <summary>SHIFT-Layer Layout</summary>
+    <summary><code>SHIFT</code> Layer Layout</summary>
     <img width="800px" src="./assets/png/60PctRowStaggeredANSI/shift-layer_layout.png" />
   </details>
 </blockquote>
