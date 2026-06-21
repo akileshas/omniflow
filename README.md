@@ -2,7 +2,7 @@
 
 It's the keyboard-layout, i am personally daily-driving in my systems.
 
-It's purely inspired from the <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout.  
+It's purely inspired from the <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout.
 Mine, are just small alterations from it, according to my needs and comforts.
 
 [Here](./docs/motivation.md), is my motivation for the switch.
@@ -19,10 +19,10 @@ Mine, are just small alterations from it, according to my needs and comforts.
 </blockquote>
 
 <b>What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?</b>
-  - The bottom-row keys placements. Swapped out the positions of the  
-    keys like `Z`, `X`, `M`, `C`, and `V` in a way which is convenient to  
+  - The bottom-row keys placements. Swapped out the positions of the
+    keys like `Z`, `X`, `M`, `C`, and `V` in a way which is convenient to
     my hands.
-  - Arrangements of symbols like `;` and `'` in way matching the `Colemak-DH`  
+  - Arrangements of symbols like `;` and `'` in way matching the `Colemak-DH`
     keyboard-layout (since i like it).
 
 ## Preview
@@ -51,3 +51,9 @@ Mine, are just small alterations from it, according to my needs and comforts.
     <img width="800px" src="./assets/png/60PctRowStaggeredANSI/fn2-layer_layout.png" />
   </details>
 </blockquote>
+
+## Credits:
+<ul>
+  <li><a href="https://codeberg.org/kathiravan/">kathiravan</a></li>
+  <li><a href="https://codeberg.org/sarguru02/">sargurunathan</a></li>
+</ul>
