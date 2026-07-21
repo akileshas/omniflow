@@ -18,7 +18,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
 </ul>
 </blockquote>
 
-<b>What the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?</b>
+<b>What's the difference from <a href="https://github.com/DreymaR/Gralmak#gralmak">Gralmak</a> keyboard-layout ?</b>
   - The bottom-row keys placements. Swapped out the positions of the
     keys like `Z`, `X`, `M`, `C`, and `V` in a way which is convenient to
     my hands.
