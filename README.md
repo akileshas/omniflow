@@ -24,7 +24,7 @@ Mine, are just small alterations from it, according to my needs and comforts.
   <li>
     The bottom-row keys placements. Swapped out the positions of the<br>
     keys like <code>Z</code>, <code>X</code>, <code>M</code>, <code>C</code>, and <code>V</code> in a way which is convenient to<br>
-    my hands.
+    my hands.<br>
   </li>
   <li>
     Arrangements of symbols like <code>;</code> and <code>'</code> in way matching the <code>Colemak-DH</code><br>
