@@ -1,0 +1,3 @@
+// import in the 'niri-wm' config
+// include "modules.d/init.kdl"
+include "input.kdl"

@@ -3,7 +3,7 @@ input {
     xkb {
       // swaps 'menu' key with 'compose' key
       // import in the 'niri-wm' config
-      // include "input.kdl"
+      // include "modules.d/input.kdl"
       options "compose:menu"
     }
   }
