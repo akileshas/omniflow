@@ -28,35 +28,35 @@
     </ul>
   </li>
   <li>
-    Here in my case, i cannot afford an split keyboard and planning to build my<br>
-    own (which can take months). So, the option (b) is the only choice for me.<br>
-    I knew the <code>row-staggered</code> keyboard is the main problem in my case (~60%), and<br>
-    alternative <code>non-QWERTY</code> keyboard-layout can really give only minor advantage (~40%).<br>
-    But, its my only option so i decided to stick with it and switch to some<br>
+    Here in my case, i cannot afford an split keyboard and planning to build my
+    own (which can take months). So, the option (b) is the only choice for me.
+    I knew the <code>row-staggered</code> keyboard is the main problem in my case (~60%), and
+    alternative <code>non-QWERTY</code> keyboard-layout can really give only minor advantage (~40%).
+    But, its my only option so i decided to stick with it and switch to some
     <code>non-QWERTY</code> keyboard-layouts.
   </li>
   <li>
-    Before making the post for suggestions, the only layout i thought i might be<br>
-    switching in-case of, if i decided to make an switch over to an <code>non-QWERTY</code> keyboard is<br>
-    the <a href="https://colemakmods.github.io/mod-dh/">Colemak-DH</a> (because<br>
-    <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer's</a> and<br>
-    <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind<br>
+    Before making the post for suggestions, the only layout i thought i might be
+    switching in-case of, if i decided to make an switch over to an <code>non-QWERTY</code> keyboard is
+    the <a href="https://colemakmods.github.io/mod-dh/">Colemak-DH</a> (because
+    <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer's</a> and
+    <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind
     to believe it's the best - :lol:).
   </li>
   <li>
-    With some good suggestions like:<br>
+    With some good suggestions like:
     <ul>
       <li>a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,</li>
       <li>b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.</li>
     </ul>
-    got into experimenting with different <code>non-QWERTY</code> keyboard-layouts like <code>Dvorak</code>,<br>
-    <code>Colemak</code>, <code>Colemak-DH</code>, <code>Placebo</code>, <code>Gralmak</code>, <code>GralmakS</code>, <code>Graphite</code>, <code>Calemog</code>,<br>
-    <code>Gallium V1</code>, <code>Gallium V2</code>, etc. Personally i felt, comfortable and ease-of-type<br>
-    on the <code>Gralmak</code> keyboard-layout, I practiced using <code>Gralmak</code> for an while and my<br>
-    fingers really felt so smooth (pinky-promise) while typing and no more pain or fatigue.<br>
-    It felt like an gift from god for my hands at the time of practicing. Everything felt<br>
-    smooth and correct and indeed made me believe it's the right way to do it. I<br>
-    cannot really tell how i felt at that time (the feeling is similar to, when i<br>
+    got into experimenting with different <code>non-QWERTY</code> keyboard-layouts like <code>Dvorak</code>,
+    <code>Colemak</code>, <code>Colemak-DH</code>, <code>Placebo</code>, <code>Gralmak</code>, <code>GralmakS</code>, <code>Graphite</code>, <code>Calemog</code>,
+    <code>Gallium V1</code>, <code>Gallium V2</code>, etc. Personally i felt, comfortable and ease-of-type
+    on the <code>Gralmak</code> keyboard-layout, I practiced using <code>Gralmak</code> for an while and my
+    fingers really felt so smooth (pinky-promise) while typing and no more pain or fatigue.
+    It felt like an gift from god for my hands at the time of practicing. Everything felt
+    smooth and correct and indeed made me believe it's the right way to do it. I
+    cannot really tell how i felt at that time (the feeling is similar to, when i
     initially started using vim motions to navigate).
   </li>
 </ul>
