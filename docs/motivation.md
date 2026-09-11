@@ -23,8 +23,8 @@
     for suggestion, really got a lot of good suggestions and resources for solving
     the issue. Now, i have two options:
     <ul>
-      <li>a. Buy an Split Keyboard.</li>
-      <li>b. Switch to an <code>non-QWERTY</code> layout.</li>
+      <li>Buy an Split Keyboard.</li>
+      <li>Switch to an <code>non-QWERTY</code> layout.</li>
     </ul>
   </li>
   <li>
@@ -46,8 +46,8 @@
   <li>
     With some good suggestions like:
     <ul>
-      <li>a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,</li>
-      <li>b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.</li>
+      <li><a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,</li>
+      <li><a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.</li>
     </ul>
     got into experimenting with different <code>non-QWERTY</code> keyboard-layouts like <code>Dvorak</code>,
     <code>Colemak</code>, <code>Colemak-DH</code>, <code>Placebo</code>, <code>Gralmak</code>, <code>GralmakS</code>, <code>Graphite</code>, <code>Calemog</code>,
