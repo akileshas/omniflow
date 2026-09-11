@@ -1,3 +1,8 @@
-// import in the 'niri-wm' config
+// NOTE:
+// for importing the entire modules in the 'niri-wm' config,
+// use the code snippet:
+// ```kdl
 // include "modules.d/init.kdl"
-include "input.kdl"
+// ```
+
+include "10-input.kdl"

@@ -1,0 +1,16 @@
+// NOTE:
+// for importing the sub-module in the 'niri-wm' config,
+// use the code snippet:
+// ```kdl
+// include "modules.d/10-input.kdl"
+// ```
+
+input {
+  keyboard {
+    xkb {
+      layout "us"
+      // swaps 'menu' key with 'compose' key.
+      options "compose:menu"
+    }
+  }
+}
