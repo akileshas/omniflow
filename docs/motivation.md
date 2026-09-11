@@ -22,10 +22,10 @@
     has been made. So, i made an post on <a href="https://www.reddit.com/r/linkarzu/s/FLajfYf1J9">Reddit</a><br>
     for suggestion, really got a lot of good suggestions and resources for solving<br>
     the issue. Now, i have two options:<br>
-    <ol type="a">
-      <li>Buy an Split Keyboard.</li>
-      <li>Switch to an <code>non-QWERTY</code> layout.</li>
-    </ol>
+    <ul>
+      <li>a. Buy an Split Keyboard.</li>
+      <li>b. Switch to an <code>non-QWERTY</code> layout.</li>
+    </ul>
   </li>
   <li>
     Here in my case, i cannot afford an split keyboard and planning to build my<br>
@@ -45,10 +45,10 @@
   </li>
   <li>
     With some good suggestions like:<br>
-    <ol type="a">
-      <li><a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,</li>
-      <li><a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.</li>
-    </ol>
+    <ul>
+      <li>a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,</li>
+      <li>b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.</li>
+    </ul>
     got into experimenting with different <code>non-QWERTY</code> keyboard-layouts like <code>Dvorak</code>,<br>
     <code>Colemak</code>, <code>Colemak-DH</code>, <code>Placebo</code>, <code>Gralmak</code>, <code>GralmakS</code>, <code>Graphite</code>, <code>Calemog</code>,<br>
     <code>Gallium V1</code>, <code>Gallium V2</code>, etc. Personally i felt, comfortable and ease-of-type<br>
