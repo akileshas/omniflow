@@ -15,8 +15,8 @@
   split-keyboards and alternate `non-QWERTY` keyboard-layouts and how bad the `QWERTY` layouts
   has been made. So, i made an post on <a href="https://www.reddit.com/r/linkarzu/s/FLajfYf1J9">Reddit</a>
   for suggestion, really got a lot of good suggestions and resources for solving
-  the issue. Now, i have two options:  
-    a. Buy an Split Keyboard.  
+  the issue. Now, i have two options:
+    a. Buy an Split Keyboard.
     b. Switch to an `non-QWERTY` layout.
 - Here in my case, i cannot afford an split keyboard and planning to build my
   own (which can take months). So, the option (b) is the only choice for me.
@@ -30,9 +30,9 @@
   <a href="https://en.wikipedia.org/wiki/Transformer_(deep_learning)">Transformer's</a> and
   <a href="https://www.youtube.com/@sylvanfranklin">Sylvan Franklin</a>, just brain-washed my mind
   to believe it's the best - :lol:).
-- With some good suggestions like:  
-    a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,  
-    b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.  
+- With some good suggestions like:
+    a. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opnqk09/</a> ,
+    b. <a href="https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/">https://www.reddit.com/r/Colemak/comments/1tw0ldf/comment/opv5pfp/</a> , etc.
   got into experimenting with different `non-QWERTY` keyboard-layouts like `Dvorak`,
   `Colemak`, `Colemak-DH`, `Placebo`, `Gralmak`, `GralmakS`, `Graphite`, `Calemog`,
   `Gallium V1`, `Gallium V2`, etc. Personally i felt, comfortable and ease-of-type
